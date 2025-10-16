@@ -1,5 +1,5 @@
 # SIEM-Splunk-Projects
-## MANAGING USERS AND PERMISSIONS IN SIEM (SPLUNK)
+### MANAGING USERS AND PERMISSIONS IN SIEM (SPLUNK)
 ### Objective: 
 To implement role-based access control (RBAC) in Splunk Enterprise, create roles, and manage user permissions for secure and efficient access management
 ### Tools Used:
